@@ -131,3 +131,10 @@ dist
 .yarn/install-state.gz
 .pnp.*
 tokens.txt
+program/old2
+program/clmm.ts
+program/cpmm.ts
+program/instruction.ts
+program/orcawp.ts
+program/pu,pswap.ts
+program/raydium.ts
